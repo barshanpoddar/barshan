@@ -1,8 +1,10 @@
 <h1 align="center">Hello..👋</h1>
 
-- I live in INDIA
-- I am currently learning JS
-  
+- 📍 I live in INDIA;
+- 📖 I am currently learning JS;
+- 🦾 Passionate about building innovative solutions;
+- 🤯 Let's collaborate and create something revelutionary;
+- 🤙 connect with me on 
 #### Language that I know
   <div align="left">
     <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="26" width="26"></a>
