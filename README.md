@@ -17,5 +17,3 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="26" width="26"></a>
   <img src="https://skillicons.dev/icons?i=mongodb" height="26" width="26"></a>
   <img src="https://skillicons.dev/icons?i=py" height="26" width="26"></a>
-  <img src="https://skillicons.dev/icons?i=linux" height="26" width="26"></a>
-  
